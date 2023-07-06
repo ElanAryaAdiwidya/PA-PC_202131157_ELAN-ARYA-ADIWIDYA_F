@@ -10,6 +10,8 @@ Beberapa operasi pada Pengolahan Citra meliputi; Preprocessing, Peningkatan citr
 
 Pengolahan citra memiliki banyak aplikasi praktis, termasuk pengolahan medis (misalnya, deteksi tumor), pengolahan citra satelit (misalnya, pemantauan bencana alam), pengolahan citra forensik (misalnya, identifikasi wajah)
 
+Adapun teknik road line detection pada pengolahan citra ini ditujukan untuk beberapa pengetahuan/teknologi yang akan diimplementasikan pada kehidupan, contohnya road line detection ini digunakan pada sistem mobil auto-pilot untuk mendeteksi lajur jalan didepan dengan demikian teknologi ini dapat mempermudah ataupun membantu beberapa orang yang kesulitan dalam mengemudikan kendaraan mobil mereka.
+
 Adapun beberapa variabel yang digunakan di projek ini yaitu; asx, canny_image, cropped_image, fig, gray_image, height, image, image_with_lines, lines, region_of_interest, width.
 
 ## Cara Penyelesaian
